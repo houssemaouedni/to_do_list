@@ -1,0 +1,14 @@
+.terminer {
+  background-color: rgb(2, 228, 58);
+}
+.encours {
+  background-color: rgb(44, 228, 228);
+}
+h1{
+  text-align: center;
+  padding-top: 40px;
+}
+.container{
+  padding-top: 40px;
+  width: 80%;
+}
